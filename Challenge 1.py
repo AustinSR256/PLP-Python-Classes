@@ -1,0 +1,5 @@
+print("Hello")
+name=input("What is your name?\n")
+print(f"Nice to meet you, {name}!")
+color=input("What is your favorite color?\n")
+print(f"So, you are {name} and your favourite color is {color}!")
